@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 2647651800
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8a38c2c3ddaac0cd3d536524ae05153c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bd8ddf53b7f0c378e37fe710e1cc2f40
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 14f49b425a2e6984ca4a9a6c97f8e88b, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Prefabs/Futbol.prefab
+Dependencies: []
